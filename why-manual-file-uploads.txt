@@ -1,0 +1,9 @@
+the remote repo access bugged out. 
+
+this person had the same issue:
+
+https://stackoverflow.com/questions/31977100/git-push-is-pushing-to-the-wrong-repo
+
+
+so I will add files manually to get the behavior that I need
+'
